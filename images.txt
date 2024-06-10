@@ -1,2 +1,2 @@
-alpine
 makedie/fastapi-dls:latest
+lovechen/embyserver:latest
