@@ -1,2 +1,2 @@
 makedie/fastapi-dls:latest
-zisuo/embyserver:latest
+zishuo/embyserver:latest
