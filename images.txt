@@ -1,2 +1,3 @@
 makedie/fastapi-dls:latest
 amilys/embyserver:latest
+pymumu/smartdns:latest
